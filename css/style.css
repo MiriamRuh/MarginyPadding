@@ -1,0 +1,47 @@
+.div{
+	background-color: #FFF8DC;
+	border: 8px solid purple;
+	width: 30%;
+	height: 80%;
+	font-size: 100;
+	text-align: left;
+	line-height: 15px;
+	padding: 30px;
+	margin: auto;
+	margin-bottom: 5%;
+}
+
+.div2{
+	background-color: #FFF8DC;
+	border: 8px solid red;
+	width: 30%;
+	height: 80%;
+	font-size: 100;
+	text-align: center;
+	line-height: 15px;
+	padding: 30px;
+	margin-bottom: 2%;
+}
+
+.div3{
+	background-color: #FFF8DC;
+	border: 8px solid yellow;
+	width: 30%;
+	height: 80%;
+	font-size: 100;
+	text-align: center;
+	line-height: 15px;
+	padding: 30px;
+	margin: auto;
+}
+
+.div4{
+	background-color: #FFF8DC;
+	border: 8px solid green;
+	width: 30%;
+	height: 80%;
+	font-size: 100;
+	text-align: left;
+	line-height: 15px;
+	padding: 0;
+}
